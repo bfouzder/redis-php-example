@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# redis-php-example
-Redis PHP example with Predis
-=======
-# Redis PHP Example with Predis
+# Redis PHP Example with Predis by Aditya Fouzder
 
 This repository demonstrates how to use the **Predis** library to interact with a Redis server using PHP. The project includes examples for basic Redis operations like setting/getting values, lists, hashes, and counters.
 
@@ -42,4 +38,3 @@ This repository demonstrates how to use the **Predis** library to interact with 
 
 ## License
 This project is open-source and available under the MIT License.
->>>>>>> b8f0ead (Radis PHP example with Predis)
